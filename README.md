@@ -15,11 +15,13 @@ Rituals is a fully featured time capsule web application to preserve and share t
 * Unregistered user can view all public memories of users on the site
 * Unregistered user or non-family member cannot view others’ private memories
 
+* Incorperated Turn.JS for easy digestible view for end user.
+
 ## Contributers
 * **[Khamla P.](https://github.com/khamla719)** - *CEO*
 * **[Amaar Fazlani ](https://github.com/amfazlani)** - *Head of UX design*
 * **[Don Lang](https://github.com/DonLang)** - *Project Manager*
-* **[Aaron Hu](https://github.com/Aaron1515)** - *Scrum Master*
+* **[Aaron Hu](https://github.com/Aaron1515)** - *Scrum Master* *Project Manager*
 
 
 # License
